@@ -1,0 +1,7 @@
+---
+applications:
+- name: war-test-app
+  memory: 512M
+  instances: 1
+  path: target/war-test.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack
