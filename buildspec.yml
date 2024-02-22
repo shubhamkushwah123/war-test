@@ -12,5 +12,5 @@ phases:
 artifacts:
   files:
     - '**/war-test.war'
-    - 'appspec.yaml'
+    - 'appspec.yml'
   discard-paths: yes
