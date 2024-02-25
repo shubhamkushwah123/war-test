@@ -13,4 +13,5 @@ artifacts:
   files:
     - '**/war-test.war'
     - 'appspec.yml'
+    - 'install.sh'
   discard-paths: yes
